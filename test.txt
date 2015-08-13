@@ -1,1 +1,2 @@
 This is a new text file I'm adding to PIR-redo git repository.
+I'm adding more to this file to see what happens while Teri is creating a new file simultaneously.
